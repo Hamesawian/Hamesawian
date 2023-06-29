@@ -2,7 +2,7 @@
 
 My name is Hame sawian i am a 22 yrs/old Tech enthusiasts from shillong who wants to explore more about the world of cybersecurity 
 
-- 🔭 I'm currently learning Cyber security
+- 🔭 I'm currently learning Msc in Cybersecurity
 - 😄 Pronouns: Hame
 <!--
 **Hamesawian/Hamesawian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
